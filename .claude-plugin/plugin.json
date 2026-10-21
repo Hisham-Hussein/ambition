@@ -1,0 +1,16 @@
+{
+  "name": "ambition",
+  "description": "Work more ambitiously with Claude: altitude (the goal behind the goal), depth (expert methods, raw data, outside judges) and range (other fields, tools and media). Skills: ambition, altitude, deepen, crew, judge. Based on Felix Rieseberg's 'How to be more ambitious: A tutorial for humans with models' (13 Oct 2026).",
+  "version": "0.2.0",
+  "author": {
+    "name": "Hisham"
+  },
+  "keywords": [
+    "ambition",
+    "altitude",
+    "depth",
+    "range",
+    "verification",
+    "productivity"
+  ]
+}
